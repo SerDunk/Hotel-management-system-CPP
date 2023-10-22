@@ -28,7 +28,7 @@ The Hotel Management System is a C++ program designed to manage and streamline h
 
  Clone this repository:
 
-   git clone https://github.com/yourusername/hotel-management.git
+   git clone https://github.com/SerDunk/Hotel-management-system-CPP.git
 
 
 Usage
