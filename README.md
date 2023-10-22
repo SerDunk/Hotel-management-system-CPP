@@ -33,7 +33,13 @@ The Hotel Management System is a C++ program designed to manage and streamline h
 
 Usage
 1.Launch the program, and you will be presented with a menu.
+
+
+
 2.Choose from a range of options to manage hotel rooms, view customer records, edit guest information, and more.
+
+
+
 
 Testing
 The system has been thoroughly tested with various scenarios, including booking rooms, checking out, and editing guest records. Test cases have confirmed the system's functionality and error handling.
